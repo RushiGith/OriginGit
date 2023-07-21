@@ -10,8 +10,7 @@ public class List {
 	set.add("Delhi");
 	set.add("Pune");
 	set.add("Nashik");
-	set.add("Amravati");
-	set.add("Nagpur");
+	
 	
 	for(String city:set)
 	{
