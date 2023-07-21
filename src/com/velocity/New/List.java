@@ -11,6 +11,7 @@ public class List {
 	set.add("Pune");
 	set.add("Nashik");
 	
+	set.remove("Pune"); //Done By Bhavesh
 	
 	for(String city:set)
 	{
