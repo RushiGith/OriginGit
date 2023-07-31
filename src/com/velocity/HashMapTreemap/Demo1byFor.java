@@ -10,6 +10,7 @@ public class Demo1byFor {
     map.put(1, 1000);
     map.put(2, 2000);
     map.put(3, 3000);
+    map.put(4, 4000);
     Set<Integer> keySet = map.keySet();
      for(Integer num:keySet)
      {
