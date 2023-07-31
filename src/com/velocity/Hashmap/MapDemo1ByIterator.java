@@ -12,6 +12,7 @@ public class MapDemo1ByIterator {
 	 m.put(2, "Lakshman");
 	 m.put(3, " Hanuman");
 	 m.put(4,"sita");
+	 m.put(5,"ravan");
 	    Set<Integer> keySet = m.keySet();
          Iterator<Integer>itr = keySet.iterator();
 	     while(itr.hasNext())
